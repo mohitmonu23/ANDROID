@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">view</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="text"></string>
+    <string-array name="spinner">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+    </string-array>
+</resources>

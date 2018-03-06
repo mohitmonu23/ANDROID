@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">coffee_shop</string>
+    <string name="coffee">coffee</string>
+    <string name="title_activity_drink_category">DrinKcategory</string>
+    <string name="title_activity_drink">drinkactivity</string>
+    <string-array name="items">
+        <item>I Drinks</item>
+        <item>II Food</item>
+        <item>III Snacks</item>
+    </string-array>
+</resources>

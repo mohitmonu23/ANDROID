@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application222</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+   <string-array name="find_beers">
+       <item>light</item>
+       <item>blue</item>
+   </string-array>
+</resources>
